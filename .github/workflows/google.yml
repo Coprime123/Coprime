@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St. Anthony's School Website</title>
+</head>
+<body>
+    <h1 style="color: red; text-align: left;">St. Anthony's School - h1</h1>
+    <h2 style="color: red; text-align: left;">St. Anthony's School - h2</h2>
+    <h3 style="color: red; text-align: left;">St. Anthony's School - h3</h3>
+    <h4 style="color: red; text-align: left;">St. Anthony's School - h4</h4>
+    <h5 style="color: red; text-align: left;">St. Anthony's School - h5</h5>
+    <h6 style="color: red; text-align: left;">St. Anthony's School - h6</h6>
+
+    <p style="text-align: left;">Address: Civil Lines, Barabanki, India</p>
+</body>
+</html>
+ 
